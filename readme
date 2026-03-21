@@ -1,0 +1,51 @@
+PS D:\satyam_node_project> npm create vite@latest mobitrail-frontend
+>>
+Need to install the following packages:
+create-vite@8.2.0
+Ok to proceed? (y) y
+
+
+> npx
+> create-vite mobitrail-frontend
+
+│
+◇  Select a framework:
+│  React
+│
+◇  Select a variant:
+│  JavaScript
+│
+◇  Use rolldown-vite (Experimental)?:
+│  No
+│
+◇  Install with npm and start now?
+│  Yes
+│
+◇  Scaffolding project in D:\satyam_node_project\mobitrail-frontend...
+│
+◇  Installing dependencies with npm...
+
+added 157 packages, and audited 158 packages in 1m
+
+33 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+│
+◇  Starting dev server...
+
+> mobitrail-frontend@0.0.0 dev
+> vite
+
+
+  VITE v7.3.1  ready in 1342 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+
+
+
+
+
